@@ -1,0 +1,22 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.5 x64 6.5.0.9182
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Chalice
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 282.647
+map_Kd Chalice_Diffuse.png
+map_bump Chalice_Normal.png
+bump Chalice_Normal.png
+map_opacity 
+map_d 
+refl 
+map_kS Chalice_Reflection.png
+map_kA 
+map_Ns Chalice_Glossiness.png

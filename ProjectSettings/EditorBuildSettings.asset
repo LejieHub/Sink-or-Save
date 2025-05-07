@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 4b9ed3ae486699f4c9a189524be65efc
+  - enabled: 1
+    path: Assets/Scenes/Ship.unity
+    guid: 0bd92905a930caa429186c649c2ed8de
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: f214204433361c24480a68f0a58ce30d
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9564eb265f1428d4b8da6bb48090ea95, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f8e124fdd8bb8c64bb2fce542d296578, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a2436544c4b27344ba0b16091674aeb3, type: 2}
+  m_UseUCBPForAssetBundles: 0

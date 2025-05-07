@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d41801ef0febf7b4cab9648dbb09276e
+timeCreated: 1537590689
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128856
+  packageName: Low Poly Boat Yard
+  packageVersion: 1.0
+  assetPath: Assets/ARSH Studios/Assets/Prefabs/Single_objects/Boat1.prefab
+  uploadId: 268506
